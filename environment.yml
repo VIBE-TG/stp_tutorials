@@ -1,0 +1,6 @@
+name: software-engineering
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12.8
